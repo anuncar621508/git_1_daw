@@ -8,7 +8,7 @@ Primera modificación
 |  Ivan	 |[Enlace a github 3](https://github.com/ibarrom693)|
 
 
-##COMANDOS UTILIZADOS
+## COMANDOS UTILIZADOS
 
 git commit -m "commit inicial”
 
